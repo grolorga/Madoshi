@@ -48,7 +48,7 @@ fun CardDetailsDialog(
 
         Column(
             modifier = Modifier
-                .background(Color.Red, shape = RoundedCornerShape(16.dp))
+                .background(Color.White, shape = RoundedCornerShape(16.dp))
                 .padding(16.dp)
                 .fillMaxWidth()
                 .padding(16.dp)
